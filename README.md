@@ -1,4 +1,4 @@
-# LangChain Model Connectivity Examples
+# Large Language Models Connectivity Examples
 
 This repository contains examples demonstrating how to connect and use various AI models through LangChain wrappers. Each example shows different approaches for integrating with popular AI providers and open-source models.
 
